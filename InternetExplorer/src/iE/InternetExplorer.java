@@ -19,8 +19,8 @@ public class InternetExplorer {
 		int p = driver.manage().window().getPosition().getX();
 		System.out.println(p);
 		System.out.println("Change 1 by User 1");
-		System.out.println("Change 2 by User 1");
-		System.out.println("Change 3 by User 2");
+		System.out.println("Already Pulled");
+
 	}
 
 }
