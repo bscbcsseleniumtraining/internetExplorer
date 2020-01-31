@@ -18,6 +18,7 @@ public class InternetExplorer {
 //		driver.findElement(By.name("user_password")).sendKeys("manager",Keys.ENTER);
 		int p = driver.manage().window().getPosition().getX();
 		System.out.println(p);
+		System.out.println("Change 1 by User 1");
 	}
 
 }
