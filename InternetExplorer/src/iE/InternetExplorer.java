@@ -20,7 +20,11 @@ public class InternetExplorer {
 		System.out.println(p);
 		System.out.println("Change 1 by User 1");
 		System.out.println("Already Pulled");
+
 		System.out.println("Already Pulled by user 1");
+
+		System.out.println("Already Pulled by user 2");
+
 	}
 
 }
